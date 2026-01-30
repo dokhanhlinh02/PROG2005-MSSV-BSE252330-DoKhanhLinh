@@ -1,3 +1,3 @@
-# PROG2005-MSSV:BSE252330-DoKhanhLinh-lop:25ICT01d.K4
+# prog2005-BSE252330-DoKhanhLinh
 Nộp bài tập môn cơ sở lập trình
 
